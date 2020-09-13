@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+cd src
+javac Engima.java
+java Engima $1 $2
